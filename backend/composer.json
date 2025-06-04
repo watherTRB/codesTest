@@ -1,0 +1,7 @@
+{
+    "name": "example/compliance-backend",
+    "description": "CodeIgniter 4 backend for compliance app",
+    "require": {
+        "codeigniter4/framework": "^4"
+    }
+}
